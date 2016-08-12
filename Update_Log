@@ -1,0 +1,21 @@
+July 29, 2016: 
+	- Profiling now removes any case where 70% or more of starting points 
+	  were part of "skyscrapers" (large spike of starting points all at the
+	  exact same index
+	- Coverage plots now fill in space between curve and axis
+
+August 2, 2016:
+	- Code now deals with cases where reads are mapped across multiple
+	  genomes
+	- Decision on where to place read is based on abundance of reads in
+	  genome
+
+August 3, 2016:
+	- Code now bases chosen read on abundance as well as Identity match
+
+August 9, 2016:
+	- Removed extra import dependencies and experimental code that was commented out
+
+August 11, 2016:
+	- Included virtual environment with Anaconda (which includes matplotlib)
+
