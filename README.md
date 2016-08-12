@@ -1,2 +1,2 @@
-# mcp
+# MCP
 Microbiome Coverage Profiler
