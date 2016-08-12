@@ -1,5 +1,7 @@
 # MCP
 
+Microbiome Coverage Profiler
+
 In the repository there is a virtual environment (venv) with python and the necessary packages installed already
 Access the virtual environment using the command
 
